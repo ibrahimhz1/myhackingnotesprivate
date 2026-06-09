@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM_Challenges/SQHell/target.xyz/SQLi.md",
+                "file": "index.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SQLi"
+              "title": "index.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM_Challenges/SQHell/target.xyz/SQLi.md",
+                "file": "index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SQLi"
+              "title": "Backlinks for index.md"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM_Challenges/SQHell/target.xyz/SQLi.md",
+                "file": "index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SQLi"
+              "title": "Outgoing links from index.md"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THM_Challenges/SQHell/target.xyz/SQLi.md",
+                "file": "index.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQLi"
+              "title": "Outline of index.md"
             }
           }
         ]
@@ -188,7 +188,10 @@
   "active": "8f24e52abf53dfc4",
   "lastOpenFiles": [
     "templates/daily-template.md",
+    "index.md.md",
+    "testingnotes/Untitled.md",
     "THM_Challenges/SQHell/target.xyz/SQLi.md",
+    "testingnotes",
     "templates/note-template.md",
     "THM_Challenges/SQHell/target.xyz/Endpoints.md",
     "README.md",
@@ -200,7 +203,6 @@
     "THM_Challenges/nahamstore/nahamstore.thm/nikto",
     "THM_Challenges/nahamstore/nahamstore.thm/4_Flags",
     "THM_Challenges/nahamstore/nahamstore.thm/3_Exploitation_Chains",
-    "THM_Challenges/nahamstore/nahamstore.thm/2_Vulnerabilities",
-    "THM_Challenges/nahamstore/nahamstore.thm/1_Recon"
+    "THM_Challenges/nahamstore/nahamstore.thm/2_Vulnerabilities"
   ]
 }
