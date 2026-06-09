@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM_Challenges/SQHell/target.xyz/Endpoints.md",
-                "mode": "source",
+                "file": "THM_Challenges/SQHell/target.xyz/SQLi.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Endpoints"
+              "title": "SQLi"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM_Challenges/SQHell/target.xyz/Endpoints.md",
+                "file": "THM_Challenges/SQHell/target.xyz/SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Endpoints"
+              "title": "Backlinks for SQLi"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM_Challenges/SQHell/target.xyz/Endpoints.md",
+                "file": "THM_Challenges/SQHell/target.xyz/SQLi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Endpoints"
+              "title": "Outgoing links from SQLi"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THM_Challenges/SQHell/target.xyz/Endpoints.md",
+                "file": "THM_Challenges/SQHell/target.xyz/SQLi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Endpoints"
+              "title": "Outline of SQLi"
             }
           }
         ]
@@ -189,6 +189,7 @@
   "lastOpenFiles": [
     "templates/daily-template.md",
     "THM_Challenges/SQHell/target.xyz/SQLi.md",
+    "templates/note-template.md",
     "THM_Challenges/SQHell/target.xyz/Endpoints.md",
     "README.md",
     "THM_Challenges/SQHell/target.xyz/images",
@@ -200,7 +201,6 @@
     "THM_Challenges/nahamstore/nahamstore.thm/4_Flags",
     "THM_Challenges/nahamstore/nahamstore.thm/3_Exploitation_Chains",
     "THM_Challenges/nahamstore/nahamstore.thm/2_Vulnerabilities",
-    "THM_Challenges/nahamstore/nahamstore.thm/1_Recon",
-    "templates/note-template.md"
+    "THM_Challenges/nahamstore/nahamstore.thm/1_Recon"
   ]
 }

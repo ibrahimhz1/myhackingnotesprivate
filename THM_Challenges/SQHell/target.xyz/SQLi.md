@@ -1,5 +1,6 @@
-
-#public: true
+---
+publish: true
+---
 
 http://taget.xyz/user?id=1
 
