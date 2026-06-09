@@ -1,0 +1,29 @@
+# .github/workflows/trigger-site-build.yml
+#
+# This file lives in your-notes (private) repo.
+# On every push to main, it tells your-site repo to rebuild.
+#
+# Setup:
+#   1. Create a GitHub Personal Access Token (PAT) with:
+#      - repo scope (to trigger workflows in other repos)
+#   2. Add it as a secret named SITE_REPO_TOKEN in your-notes repo settings
+#   3. Replace YOUR_GITHUB_USERNAME and YOUR_SITE_REPO below
+
+name: Trigger site rebuild
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch build to your-site
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          repository: ibrahimhz1/myhackingvault   # ← change this
+          event-type: notes-updated
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
