@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Testing Image.md",
+                "file": "Testing/New note.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Testing Image"
+              "title": "New note"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Testing Image.md",
+                "file": "Testing/New note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Testing Image"
+              "title": "Backlinks for New note"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Testing Image.md",
+                "file": "Testing/New note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Testing Image"
+              "title": "Outgoing links from New note"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Testing Image.md",
+                "file": "Testing/New note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Testing Image"
+              "title": "Outline of New note"
             }
           }
         ]
@@ -188,10 +188,11 @@
   },
   "active": "8f24e52abf53dfc4",
   "lastOpenFiles": [
+    "Testing/Testing Image.md",
+    "Testing/New note.md",
+    "index.md",
     "Testing/attachments/1.png",
     "Testing/attachments",
-    "index.md",
-    "Testing/Testing Image.md",
     "Testing",
     "Penetration_Testing",
     "PortswiggerAcademy/API_Testing",
