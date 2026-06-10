@@ -1,0 +1,25 @@
+# ── Obsidian workspace files (machine-specific, don't commit) ──
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+
+# ── Obsidian cache ──
+.obsidian/cache
+.trash/
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Windows shortcuts ──
+*.lnk
+
+# ── Temporary files ──
+*.tmp
+*.temp
+~$*
+
+# ── Do NOT ignore these (explicitly kept) ──
+# attachments/     ← images must be committed for Quartz to serve them
+# .obsidian/       ← plugin configs are useful to keep (except workspace above)
