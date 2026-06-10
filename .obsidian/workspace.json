@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/New note.md",
+                "file": "Testing/Interests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New note"
+              "title": "Interests"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/New note.md",
+                "file": "Testing/Interests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New note"
+              "title": "Backlinks for Interests"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/New note.md",
+                "file": "Testing/Interests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New note"
+              "title": "Outgoing links from Interests"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/New note.md",
+                "file": "Testing/Interests.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New note"
+              "title": "Outline of Interests"
             }
           }
         ]
@@ -186,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f24e52abf53dfc4",
+  "active": "81e5261346dac747",
   "lastOpenFiles": [
+    "Testing/attachments/2.png",
     "Testing/Testing Image.md",
-    "Testing/New note.md",
+    "Testing/Interests.md",
     "index.md",
     "Testing/attachments/1.png",
     "Testing/attachments",
