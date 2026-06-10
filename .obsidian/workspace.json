@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ibrahimhz.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ibrahimhz"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ibrahimhz.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ibrahimhz"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ibrahimhz.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ibrahimhz"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ibrahimhz.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ibrahimhz"
+              "title": "Outline of index"
             }
           }
         ]
@@ -187,15 +187,17 @@
   },
   "active": "8f24e52abf53dfc4",
   "lastOpenFiles": [
-    "index.md",
+    "THM_Challenges/SQHell/target.xyz/Endpoints.md",
     "README.md",
     "THM_Challenges/SQHell/target.xyz/SQLi.md",
+    "index.md",
+    "content-index.md",
+    "templates/ctf-template.md",
     "ibrahimhz.md",
     "templates/daily-template.md",
     "testingnotes/Untitled.md",
     "testingnotes",
     "templates/note-template.md",
-    "THM_Challenges/SQHell/target.xyz/Endpoints.md",
     "THM_Challenges/SQHell/target.xyz/images",
     "THM_Challenges/SQHell/target.xyz",
     "THM_Challenges/SQHell",
