@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Interests.md",
+                "file": "Linux/Basics/Mount and Unmount Partition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Interests"
+              "title": "Mount and Unmount Partition"
             }
           }
         ]
@@ -186,31 +186,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81e5261346dac747",
+  "active": "8f24e52abf53dfc4",
   "lastOpenFiles": [
+    "Linux/Basics/SED Command.md",
+    "Linux/Basics/Mount and Unmount Partition.md",
+    "Linux/Basics/CUT command.md",
+    "Linux/Basics/awk command.md",
+    "Linux/Basics/Netstat.md",
+    "Linux/Basics/Ping.md",
+    "Linux/Basics/FTP Server.md",
+    "Linux/Basics/SSH.md",
+    "Linux/Basics/at command.md",
+    "Linux/Basics/Cron Job.md",
+    "Linux/Basics/Sticky Bit.md",
+    "Linux/Basics/SUID and SGID.md",
+    "Linux/Basics/System Monitoring.md",
+    "Linux/Basics/dmesg - Diagnostic Message.md",
+    "Linux/Basics/Disk Management (df, du, free).md",
+    "Linux/Basics/User Management Commands.md",
+    "Linux/Basics/Manage Process in Linux.md",
+    "Linux/Basics/TOP Command.md",
+    "Linux/Basics/Kill command.md",
+    "Linux/Basics/Process States (PS).md",
+    "Linux/Basics/Redirection.md",
+    "Linux/Basics/Environment Variables.md",
+    "Linux/Basics/Untitled",
+    "Linux/Basics/ACL Access Control List.md",
+    "Linux/Basics/Hard & Soft Links.md",
+    "Linux/Basics/Wildcards.md",
+    "Linux/Basics/Vim.md",
+    "Linux/Basics/Linux File System",
+    "Linux/Basics",
+    "Linux",
     "Testing/attachments/2.png",
-    "Testing/Testing Image.md",
-    "Testing/Interests.md",
-    "index.md",
     "Testing/attachments/1.png",
     "Testing/attachments",
     "Testing",
     "Penetration_Testing",
     "PortswiggerAcademy/API_Testing",
     "PortswiggerAcademy/SSRF",
-    "PortswiggerAcademy/XSS",
-    "PortswiggerAcademy/SQLi",
-    "PortswiggerAcademy",
-    "THM_Challenges/SQHell/target.xyz/Endpoints.md",
-    "README.md",
-    "THM_Challenges/SQHell/target.xyz/SQLi.md",
-    "content-index.md",
-    "templates/ctf-template.md",
-    "ibrahimhz.md",
-    "templates/daily-template.md",
-    "testingnotes/Untitled.md",
-    "testingnotes",
-    "templates/note-template.md",
-    "THM_Challenges/SQHell/target.xyz/images"
+    "PortswiggerAcademy/XSS"
   ]
 }
