@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "abb50733918b417a",
+        "id": "4f38e6044ddb9456",
         "type": "tabs",
         "children": [
           {
-            "id": "8f24e52abf53dfc4",
+            "id": "70e78a78a52df38a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Basics/Mount and Unmount Partition.md",
+                "file": "PortswiggerAcademy/XSS/3_Lab3-DOM XSS in document.write sink using source location.search.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Mount and Unmount Partition"
+              "title": "3_Lab3-DOM XSS in document.write sink using source location.search"
             }
           }
         ]
@@ -79,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 384.5
   },
   "right": {
     "id": "d944a04ceab4f1ca",
@@ -186,10 +185,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f24e52abf53dfc4",
+  "active": "70e78a78a52df38a",
   "lastOpenFiles": [
-    "Linux/Basics/SED Command.md",
+    "PortswiggerAcademy/XSS/2_Lab2-Stored XSS into HTML context with nothing encoded.md",
+    "PortswiggerAcademy/XSS/3_Lab3-DOM XSS in document.write sink using source location.search.md",
+    "PortswiggerAcademy/attachments/Pasted image 20260612014322.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612014158.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612014032.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612013944.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612013930.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612013841.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612013422.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612013049.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612012901.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260612012822.png",
+    "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
+    "index.md",
+    "PortswiggerAcademy/attachments",
     "Linux/Basics/Mount and Unmount Partition.md",
+    "Linux/Basics/SED Command.md",
     "Linux/Basics/CUT command.md",
     "Linux/Basics/awk command.md",
     "Linux/Basics/Netstat.md",
@@ -211,20 +225,13 @@
     "Linux/Basics/Redirection.md",
     "Linux/Basics/Environment Variables.md",
     "Linux/Basics/Untitled",
-    "Linux/Basics/ACL Access Control List.md",
-    "Linux/Basics/Hard & Soft Links.md",
-    "Linux/Basics/Wildcards.md",
-    "Linux/Basics/Vim.md",
     "Linux/Basics/Linux File System",
     "Linux/Basics",
     "Linux",
-    "Testing/attachments/2.png",
-    "Testing/attachments/1.png",
     "Testing/attachments",
     "Testing",
     "Penetration_Testing",
     "PortswiggerAcademy/API_Testing",
-    "PortswiggerAcademy/SSRF",
-    "PortswiggerAcademy/XSS"
+    "PortswiggerAcademy/SSRF"
   ]
 }
