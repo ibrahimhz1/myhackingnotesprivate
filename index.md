@@ -5,10 +5,8 @@ description: "Ibrahim's personal hacking knowledge base — CTF writeups, securi
 ---
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║          IBRAHIM'S HACKING VAULT                         ║
-║          myvault.ibrahimhz.com                           ║
-╚══════════════════════════════════════════════════════════╝
+IBRAHIM'S HACKING VAULT
+myvault.ibrahimhz.com
 ```
 
 > A personal knowledge base for security research, CTF writeups, and hacking notes.
@@ -17,7 +15,8 @@ description: "Ibrahim's personal hacking knowledge base — CTF writeups, securi
 
 - [[THM_Challenges]] — TryHackMe challenge writeups
 - [[_private]] — private notes (not published)
-
+- [[PortswiggerAcademy]]
+- [[PortswiggerAcademy/XSS]]
 ## Recent activity
 
 > Browse the graph view → to explore connections between notes.

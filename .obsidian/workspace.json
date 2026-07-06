@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c392dbcf0a9c6056",
+        "id": "ab2d95843c69f4ab",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab9f27f42aec384",
+            "id": "0d24dced55a46413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.md",
+                "file": "index.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index_stored_xss_replace"
+              "title": "index"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index_stored_xss_replace"
+              "title": "File properties for index"
             }
           }
         ],
@@ -198,10 +198,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ab9f27f42aec384",
+  "active": "0d24dced55a46413",
   "lastOpenFiles": [
-    "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
+    "_private.md",
+    "index.md",
+    "THM_Challenges.md",
+    "GenAI/Prompt/RAG.md",
+    "GenAI/Prompt/Untitled.md",
+    "HiddenWistomDiscovered/attachments/Pasted image 20260704154844.png",
+    "HiddenWistomDiscovered/HTML_and_Browser_Behaviour/Browser behaviour on closed tags.md",
     "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.md",
+    "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
     "PortswiggerAcademy/TestLab/Reflected_DOM_XSS/eval/data.json.md",
     "PortswiggerAcademy/XSS/13_Lab13-Stored DOM XSS.md",
     "PortswiggerAcademy/XSS/3_Lab3-DOM XSS in document.write sink using source location.search.md",
@@ -220,12 +227,6 @@
     "PortswiggerAcademy/XSS/16_Lab16-Reflected XSS with some SVG markup allowed.md",
     "PortswiggerAcademy/XSS/17_Lab17-Reflected XSS in canonical link tag.md",
     "PortswiggerAcademy/XSS/18_Lab18-Reflected XSS into a JavaScript string with single quote and backslash escaped.md",
-    "PortswiggerAcademy/XSS/19_Lab19-Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped.md",
-    "PortswiggerAcademy/XSS/20_Lab20-Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md",
-    "PortswiggerAcademy/XSS/21_Lab21-Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped.md",
-    "HiddenWistomDiscovered/HTML_and_Browser_Behaviour/Browser behaviour on closed tags.md",
-    "Vulnhub_Machines/Links/Web Penetration Links.md",
-    "Vulnhub_Machines/Links/Web Penetration Links.md",
     "PortswiggerAcademy/attachments/Pasted image 20260705215621.png",
     "Vulnhub_Machines/Links",
     "Vulnhub_Machines",
@@ -237,7 +238,6 @@
     "PortswiggerAcademy/attachments/Pasted image 20260706015604.png",
     "PortswiggerAcademy/attachments/Pasted image 20260706015518.png",
     "PortswiggerAcademy/attachments/Pasted image 20260706015440.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260706015355.png",
     "EWPTX/Preparation_Guide",
     "EWPTX",
     "HiddenWistomDiscovered/attachments",
