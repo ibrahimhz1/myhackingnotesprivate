@@ -1,5 +1,5 @@
 ---
-title: Reflected XSS into HTML context with all tags blocked except custom ones
+title: 15_Lab15-Reflected XSS into HTML context with all tags blocked except custom ones
 date: 2026-07-04
 tags:
   - 

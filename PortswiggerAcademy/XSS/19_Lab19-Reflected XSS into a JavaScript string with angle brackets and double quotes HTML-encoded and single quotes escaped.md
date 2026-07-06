@@ -1,5 +1,5 @@
 ---
-title: "Lab: Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped"
+title: 19_Lab19-Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped
 date: 2026-07-05
 tags:
   - 

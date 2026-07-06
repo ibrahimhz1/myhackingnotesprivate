@@ -1,5 +1,5 @@
 ---
-title: Reflected XSS into HTML context with most tags and attributes blocked
+title: 14_Lab14-Reflected XSS into HTML context with most tags and attributes blocked
 date: 2026-07-04
 tags:
   - 

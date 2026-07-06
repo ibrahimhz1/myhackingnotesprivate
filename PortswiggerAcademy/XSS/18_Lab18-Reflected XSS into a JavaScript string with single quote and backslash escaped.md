@@ -1,5 +1,5 @@
 ---
-title: Reflected XSS into a JavaScript string with single quote and backslash escaped
+title: 18_Lab18-Reflected XSS into a JavaScript string with single quote and backslash escaped
 date: 2026-07-05
 tags:
   - 

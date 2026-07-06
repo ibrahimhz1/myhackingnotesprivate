@@ -1,5 +1,5 @@
 ---
-title: Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped
+title: 21_Lab21-Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped
 date: 2026-07-06
 tags:
   - 
