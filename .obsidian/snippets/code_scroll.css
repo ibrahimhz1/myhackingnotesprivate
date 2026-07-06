@@ -1,0 +1,7 @@
+.markdown-reading-view pre {
+    overflow-x: auto;
+}
+
+.markdown-reading-view pre code {
+    white-space: pre;
+}

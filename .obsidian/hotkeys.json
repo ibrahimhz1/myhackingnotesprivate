@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:create-templates/note-template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

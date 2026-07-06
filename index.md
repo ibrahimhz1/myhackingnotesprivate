@@ -6,8 +6,8 @@ description: "Ibrahim's personal hacking knowledge base — CTF writeups, securi
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║          IBRAHIM'S HACKING VAULT                        ║
-║          myvault.ibrahimhz.com                          ║
+║          IBRAHIM'S HACKING VAULT                         ║
+║          myvault.ibrahimhz.com                           ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
