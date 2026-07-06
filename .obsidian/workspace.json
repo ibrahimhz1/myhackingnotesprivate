@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HiddenWistomDiscovered/HTML_and_Browser_Behaviour/Browser behaviour on closed tags.md",
+                "file": "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Browser behaviour on closed tags"
+              "title": "22_Lab22-Exploiting cross-site scripting to steal cookies"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "444060fa86a9922e",
   "lastOpenFiles": [
+    "HiddenWistomDiscovered/HTML_and_Browser_Behaviour/Browser behaviour on closed tags.md",
     "Vulnhub_Machines/Links/Web Penetration Links.md",
     "Vulnhub_Machines/Links/Web Penetration Links.md",
     "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
@@ -225,7 +226,6 @@
     "PortswiggerAcademy/attachments/Pasted image 20260706015355.png",
     "index.md",
     "EWPTX/Preparation_Guide/Exam Reports.md",
-    "EWPTX/Preparation_Guide/Practice Exam Questions.md",
     "EWPTX/Preparation_Guide",
     "EWPTX",
     "HiddenWistomDiscovered/attachments",
