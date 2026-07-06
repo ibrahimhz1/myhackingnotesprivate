@@ -1,5 +1,5 @@
 ---
-title: Lab9-Reflected XSS into a JavaScript string with angle brackets HTML encoded
+title: 9_Lab9-Reflected XSS into a JavaScript string with angle brackets HTML encoded
 date: 2026-06-25
 tags:
   - 

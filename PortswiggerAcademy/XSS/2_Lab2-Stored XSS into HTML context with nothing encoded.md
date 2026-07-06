@@ -1,5 +1,5 @@
 ---
-title: Lab2-Stored XSS into HTML context with nothing encoded
+title: 2_Lab2-Stored XSS into HTML context with nothing encoded
 date: 2026-06-12
 tags:
   - 

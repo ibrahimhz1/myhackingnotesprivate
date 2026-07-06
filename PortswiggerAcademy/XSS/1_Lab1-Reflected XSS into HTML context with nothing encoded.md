@@ -1,5 +1,5 @@
 ---
-title: Lab1-Reflected XSS into HTML context with nothing encoded
+title: 1_Lab1-Reflected XSS into HTML context with nothing encoded
 date: 2026-06-12
 tags:
   - 

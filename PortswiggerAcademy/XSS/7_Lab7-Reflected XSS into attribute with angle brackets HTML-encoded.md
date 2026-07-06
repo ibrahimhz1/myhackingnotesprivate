@@ -1,5 +1,5 @@
 ---
-title: Lab7-Reflected XSS into attribute with angle brackets HTML-encoded
+title: 7_Lab7-Reflected XSS into attribute with angle brackets HTML-encoded
 date: 2026-06-20
 tags:
   - 

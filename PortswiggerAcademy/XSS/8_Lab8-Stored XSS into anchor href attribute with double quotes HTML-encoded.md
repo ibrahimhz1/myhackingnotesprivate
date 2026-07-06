@@ -1,5 +1,5 @@
 ---
-title: Lab8-Stored XSS into anchor href attribute with double quotes HTML-encoded
+title: 8_Lab8-Stored XSS into anchor href attribute with double quotes HTML-encoded
 date: 2026-06-24
 tags:
   - 

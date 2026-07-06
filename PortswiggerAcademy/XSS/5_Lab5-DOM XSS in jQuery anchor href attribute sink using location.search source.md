@@ -1,5 +1,5 @@
 ---
-title: Lab5-DOM XSS in jQuery anchor href attribute sink using location.search source
+title: 5_Lab5-DOM XSS in jQuery anchor href attribute sink using location.search source
 date: 2026-06-20
 tags:
   - 

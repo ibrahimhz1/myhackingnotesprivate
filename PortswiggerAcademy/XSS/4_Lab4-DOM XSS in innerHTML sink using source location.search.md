@@ -1,5 +1,5 @@
 ---
-title: Lab4-DOM XSS in innerHTML sink using source location.search
+title: 4_Lab4-DOM XSS in innerHTML sink using source location.search
 date: 2026-06-13
 tags:
   - 

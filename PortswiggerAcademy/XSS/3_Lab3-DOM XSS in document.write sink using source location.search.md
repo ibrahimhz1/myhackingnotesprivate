@@ -1,5 +1,5 @@
 ---
-title: Lab3-DOM XSS in document.write sink using source location.search
+title: 3_Lab3-DOM XSS in document.write sink using source location.search
 date: 2026-06-12
 tags:
   - 

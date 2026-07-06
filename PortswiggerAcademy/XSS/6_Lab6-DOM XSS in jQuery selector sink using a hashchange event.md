@@ -1,5 +1,5 @@
 ---
-title: Lab6-DOM XSS in jQuery selector sink using a hashchange event
+title: 6_Lab6-DOM XSS in jQuery selector sink using a hashchange event
 date: 2026-06-20
 tags:
   - 

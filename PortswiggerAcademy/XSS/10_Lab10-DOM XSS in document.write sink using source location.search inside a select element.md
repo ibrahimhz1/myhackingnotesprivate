@@ -1,5 +1,5 @@
 ---
-title: Lab10-DOM XSS in document.write sink using source location.search inside a select element
+title: 10_Lab10-DOM XSS in document.write sink using source location.search inside a select element
 date: 2026-06-25
 tags:
   - 
