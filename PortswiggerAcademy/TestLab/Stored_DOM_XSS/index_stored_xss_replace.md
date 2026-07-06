@@ -1,3 +1,13 @@
+---
+title: Stored XSS replace function
+date: 2026-07-06
+tags: 
+-
+publish: true
+draft: false
+description: ""
+---
+
 
 ```html
 <!DOCTYPE html>

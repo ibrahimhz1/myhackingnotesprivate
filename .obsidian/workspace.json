@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55df875223aa2d4e",
+        "id": "c392dbcf0a9c6056",
         "type": "tabs",
         "children": [
           {
-            "id": "444060fa86a9922e",
+            "id": "1ab9f27f42aec384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
-                "mode": "source",
-                "source": false
+                "file": "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "1_Lab1-Reflected XSS into HTML context with nothing encoded"
+              "title": "index_stored_xss_replace"
             }
           }
         ]
@@ -164,13 +164,25 @@
               "icon": "lucide-list",
               "title": "Outline of 8_Lab8-Stored XSS into anchor href attribute with double quotes HTML-encoded"
             }
+          },
+          {
+            "id": "ea1692bbf650d1fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for index_stored_xss_replace"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,19 +198,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "444060fa86a9922e",
+  "active": "1ab9f27f42aec384",
   "lastOpenFiles": [
-    "PortswiggerAcademy/XSS/2_Lab2-Stored XSS into HTML context with nothing encoded.md",
+    "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
+    "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.md",
+    "PortswiggerAcademy/TestLab/Reflected_DOM_XSS/eval/data.json.md",
+    "PortswiggerAcademy/XSS/13_Lab13-Stored DOM XSS.md",
     "PortswiggerAcademy/XSS/3_Lab3-DOM XSS in document.write sink using source location.search.md",
+    "PortswiggerAcademy/XSS/2_Lab2-Stored XSS into HTML context with nothing encoded.md",
+    "PortswiggerAcademy/XSS/7_Lab7-Reflected XSS into attribute with angle brackets HTML-encoded.md",
+    "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
     "PortswiggerAcademy/XSS/4_Lab4-DOM XSS in innerHTML sink using source location.search.md",
     "PortswiggerAcademy/XSS/5_Lab5-DOM XSS in jQuery anchor href attribute sink using location.search source.md",
     "PortswiggerAcademy/XSS/6_Lab6-DOM XSS in jQuery selector sink using a hashchange event.md",
-    "PortswiggerAcademy/XSS/7_Lab7-Reflected XSS into attribute with angle brackets HTML-encoded.md",
     "PortswiggerAcademy/XSS/8_Lab8-Stored XSS into anchor href attribute with double quotes HTML-encoded.md",
     "PortswiggerAcademy/XSS/9_Lab9-Reflected XSS into a JavaScript string with angle brackets HTML encoded.md",
     "PortswiggerAcademy/XSS/10_Lab10-DOM XSS in document.write sink using source location.search inside a select element.md",
     "PortswiggerAcademy/XSS/12_Lab12-Reflected DOM XSS.md",
-    "PortswiggerAcademy/XSS/13_Lab13-Stored DOM XSS.md",
     "PortswiggerAcademy/XSS/14_Lab14-Reflected XSS into HTML context with most tags and attributes blocked.md",
     "PortswiggerAcademy/XSS/15_Lab15-Reflected XSS into HTML context with all tags blocked except custom ones.md",
     "PortswiggerAcademy/XSS/16_Lab16-Reflected XSS with some SVG markup allowed.md",
@@ -207,8 +223,6 @@
     "PortswiggerAcademy/XSS/19_Lab19-Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped.md",
     "PortswiggerAcademy/XSS/20_Lab20-Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md",
     "PortswiggerAcademy/XSS/21_Lab21-Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped.md",
-    "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
-    "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
     "HiddenWistomDiscovered/HTML_and_Browser_Behaviour/Browser behaviour on closed tags.md",
     "Vulnhub_Machines/Links/Web Penetration Links.md",
     "Vulnhub_Machines/Links/Web Penetration Links.md",
@@ -224,8 +238,6 @@
     "PortswiggerAcademy/attachments/Pasted image 20260706015518.png",
     "PortswiggerAcademy/attachments/Pasted image 20260706015440.png",
     "PortswiggerAcademy/attachments/Pasted image 20260706015355.png",
-    "index.md",
-    "EWPTX/Preparation_Guide/Exam Reports.md",
     "EWPTX/Preparation_Guide",
     "EWPTX",
     "HiddenWistomDiscovered/attachments",
