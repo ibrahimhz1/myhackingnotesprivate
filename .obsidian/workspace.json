@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
+                "file": "PortswiggerAcademy/XSS/21_Lab21-Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22_Lab22-Exploiting cross-site scripting to steal cookies"
+              "title": "21_Lab21-Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped"
             }
           }
         ]
@@ -188,12 +188,12 @@
   },
   "active": "444060fa86a9922e",
   "lastOpenFiles": [
+    "PortswiggerAcademy/XSS/20_Lab20-Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md",
+    "PortswiggerAcademy/XSS/21_Lab21-Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped.md",
+    "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
     "HiddenWistomDiscovered/HTML_and_Browser_Behaviour/Browser behaviour on closed tags.md",
     "Vulnhub_Machines/Links/Web Penetration Links.md",
     "Vulnhub_Machines/Links/Web Penetration Links.md",
-    "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
-    "PortswiggerAcademy/XSS/21_Lab21-Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped.md",
-    "PortswiggerAcademy/XSS/20_Lab20-Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md",
     "PortswiggerAcademy/XSS/19_Lab19-Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped.md",
     "PortswiggerAcademy/XSS/18_Lab18-Reflected XSS into a JavaScript string with single quote and backslash escaped.md",
     "PortswiggerAcademy/XSS/17_Lab17-Reflected XSS in canonical link tag.md",
