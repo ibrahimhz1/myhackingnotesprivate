@@ -16,6 +16,7 @@ description: ""
 ### Payload: 
 
 ```
-<svg><animateTransform%20onbegin=1>
+<svg><animateTransform onbegin=1>
 ```
+
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab2d95843c69f4ab",
+        "id": "aeacf8c4cdfb6dde",
         "type": "tabs",
         "children": [
           {
-            "id": "0d24dced55a46413",
+            "id": "971c924cdbf7b73e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "PortswiggerAcademy/XSS/28_Lab28-Reflected XSS in a JavaScript URL with some characters blocked.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "28_Lab28-Reflected XSS in a JavaScript URL with some characters blocked"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 446.5
   },
   "right": {
     "id": "d944a04ceab4f1ca",
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for 22_Lab22-Exploiting cross-site scripting to steal cookies"
             }
           }
         ],
@@ -198,14 +198,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d24dced55a46413",
+  "active": "971c924cdbf7b73e",
   "lastOpenFiles": [
-    "_private.md",
+    "PortswiggerAcademy/XSS/27_Lab27-Reflected XSS with event handlers and href attributes blocked.md",
+    "PortswiggerAcademy/XSS/28_Lab28-Reflected XSS in a JavaScript URL with some characters blocked.md",
+    "PortswiggerAcademy/XSS/25_Lab25-Reflected XSS with AngularJS sandbox escape without strings.md",
+    "PortswiggerAcademy/attachments/Pasted image 20260709024111.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709024027.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709023958.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709023811.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709023749.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709023405.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709022542.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709022530.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709022025.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260709021246.png",
+    "PortswiggerAcademy/XSS/20_Lab20-Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md",
+    "PortswiggerAcademy/XSS/16_Lab16-Reflected XSS with some SVG markup allowed.md",
+    "PortswiggerAcademy/XSS/15_Lab15-Reflected XSS into HTML context with all tags blocked except custom ones.md",
+    "PortswiggerAcademy/XSS/14_Lab14-Reflected XSS into HTML context with most tags and attributes blocked.md",
+    "PortswiggerAcademy/XSS/24_Lab24-Exploiting XSS to bypass CSRF defenses.md",
+    "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
+    "PortswiggerAcademy/XSS/21_Lab21-Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped.md",
+    "PortswiggerAcademy/XSS/18_Lab18-Reflected XSS into a JavaScript string with single quote and backslash escaped.md",
+    "PortswiggerAcademy/XSS/19_Lab19-Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped.md",
+    "HackingTools/Pentesting/Tools.md",
+    "HackingTools/Pentesting",
+    "HackingTools",
+    "GenAI/Prompt/Parameters you should Understand.md",
     "index.md",
+    "_private.md",
     "THM_Challenges.md",
     "GenAI/Prompt/RAG.md",
     "GenAI/Prompt/Untitled.md",
-    "HiddenWistomDiscovered/attachments/Pasted image 20260704154844.png",
     "HiddenWistomDiscovered/HTML_and_Browser_Behaviour/Browser behaviour on closed tags.md",
     "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.md",
     "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
@@ -213,39 +238,14 @@
     "PortswiggerAcademy/XSS/13_Lab13-Stored DOM XSS.md",
     "PortswiggerAcademy/XSS/3_Lab3-DOM XSS in document.write sink using source location.search.md",
     "PortswiggerAcademy/XSS/2_Lab2-Stored XSS into HTML context with nothing encoded.md",
-    "PortswiggerAcademy/XSS/7_Lab7-Reflected XSS into attribute with angle brackets HTML-encoded.md",
-    "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md",
-    "PortswiggerAcademy/XSS/4_Lab4-DOM XSS in innerHTML sink using source location.search.md",
-    "PortswiggerAcademy/XSS/5_Lab5-DOM XSS in jQuery anchor href attribute sink using location.search source.md",
-    "PortswiggerAcademy/XSS/6_Lab6-DOM XSS in jQuery selector sink using a hashchange event.md",
-    "PortswiggerAcademy/XSS/8_Lab8-Stored XSS into anchor href attribute with double quotes HTML-encoded.md",
-    "PortswiggerAcademy/XSS/9_Lab9-Reflected XSS into a JavaScript string with angle brackets HTML encoded.md",
-    "PortswiggerAcademy/XSS/10_Lab10-DOM XSS in document.write sink using source location.search inside a select element.md",
-    "PortswiggerAcademy/XSS/12_Lab12-Reflected DOM XSS.md",
-    "PortswiggerAcademy/XSS/14_Lab14-Reflected XSS into HTML context with most tags and attributes blocked.md",
-    "PortswiggerAcademy/XSS/15_Lab15-Reflected XSS into HTML context with all tags blocked except custom ones.md",
-    "PortswiggerAcademy/XSS/16_Lab16-Reflected XSS with some SVG markup allowed.md",
-    "PortswiggerAcademy/XSS/17_Lab17-Reflected XSS in canonical link tag.md",
-    "PortswiggerAcademy/XSS/18_Lab18-Reflected XSS into a JavaScript string with single quote and backslash escaped.md",
-    "PortswiggerAcademy/attachments/Pasted image 20260705215621.png",
     "Vulnhub_Machines/Links",
     "Vulnhub_Machines",
-    "PortswiggerAcademy/attachments/Pasted image 20260706033000.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260706032934.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260706032903.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260706032850.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260706015632.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260706015604.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260706015518.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260706015440.png",
     "EWPTX/Preparation_Guide",
     "EWPTX",
     "HiddenWistomDiscovered/attachments",
     "HiddenWistomDiscovered/HTML_and_Browser_Behaviour",
     "HiddenWistomDiscovered",
     "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.html",
-    "PortswiggerAcademy/TestLab/Stored_DOM_XSS",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }
