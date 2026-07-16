@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortswiggerAcademy/XSS/8_Lab8-Stored XSS into anchor href attribute with double quotes HTML-encoded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8_Lab8-Stored XSS into anchor href attribute with double quotes HTML-encoded"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,13 +172,11 @@
               "title": "File properties for 22_Lab22-Exploiting cross-site scripting to steal cookies"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81e5261346dac747",
+  "active": "d0ceaa44ddd41f57",
   "lastOpenFiles": [
+    "PortswiggerAcademy/attachments/Pasted image 20260716225434.png",
     "PortswiggerAcademy/XSS/29_Lab29-Reflected XSS protected by very strict CSP, with dangling markup attack.md",
     "PortswiggerAcademy/attachments/Pasted image 20260717023416.png",
     "PortswiggerAcademy/attachments/Pasted image 20260717023020.png",
