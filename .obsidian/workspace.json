@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aeacf8c4cdfb6dde",
+        "id": "f5b8d52617bbe239",
         "type": "tabs",
         "children": [
           {
-            "id": "971c924cdbf7b73e",
+            "id": "595ab3ce8779f6ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PortswiggerAcademy/XSS/28_Lab28-Reflected XSS in a JavaScript URL with some characters blocked.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "28_Lab28-Reflected XSS in a JavaScript URL with some characters blocked"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 361.5
   },
   "right": {
     "id": "d944a04ceab4f1ca",
@@ -198,21 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "971c924cdbf7b73e",
+  "active": "81e5261346dac747",
   "lastOpenFiles": [
+    "PortswiggerAcademy/XSS/29_Lab29-Reflected XSS protected by very strict CSP, with dangling markup attack.md",
+    "PortswiggerAcademy/attachments/Pasted image 20260717023416.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260717023020.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260717021035.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260717020644.png",
+    "Pasted image 20260717020444.png",
+    "Pasted image 20260717020440.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260717020256.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260717015759.png",
+    "PortswiggerAcademy/attachments/Pasted image 20260717015715.png",
+    "Pasted image 20260717015258.png",
     "PortswiggerAcademy/XSS/27_Lab27-Reflected XSS with event handlers and href attributes blocked.md",
     "PortswiggerAcademy/XSS/28_Lab28-Reflected XSS in a JavaScript URL with some characters blocked.md",
     "PortswiggerAcademy/XSS/25_Lab25-Reflected XSS with AngularJS sandbox escape without strings.md",
-    "PortswiggerAcademy/attachments/Pasted image 20260709024111.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709024027.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709023958.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709023811.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709023749.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709023405.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709022542.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709022530.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709022025.png",
-    "PortswiggerAcademy/attachments/Pasted image 20260709021246.png",
     "PortswiggerAcademy/XSS/20_Lab20-Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md",
     "PortswiggerAcademy/XSS/16_Lab16-Reflected XSS with some SVG markup allowed.md",
     "PortswiggerAcademy/XSS/15_Lab15-Reflected XSS into HTML context with all tags blocked except custom ones.md",
@@ -236,8 +233,6 @@
     "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
     "PortswiggerAcademy/TestLab/Reflected_DOM_XSS/eval/data.json.md",
     "PortswiggerAcademy/XSS/13_Lab13-Stored DOM XSS.md",
-    "PortswiggerAcademy/XSS/3_Lab3-DOM XSS in document.write sink using source location.search.md",
-    "PortswiggerAcademy/XSS/2_Lab2-Stored XSS into HTML context with nothing encoded.md",
     "Vulnhub_Machines/Links",
     "Vulnhub_Machines",
     "EWPTX/Preparation_Guide",

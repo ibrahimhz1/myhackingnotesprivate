@@ -23,8 +23,9 @@ Go through the application :
 - Blogging application 
 - User can search the post by searching through a search box in the home page 
 - user can click and open a specific post 
-- User can add comments on the post 
--
+- User can add comments on the post  
+
+---
 
 In search box search a unique text and see where it is displayed : 
 
