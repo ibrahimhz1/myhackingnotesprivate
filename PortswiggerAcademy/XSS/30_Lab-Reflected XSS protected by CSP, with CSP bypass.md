@@ -12,7 +12,7 @@ description: ""
 
 This lab uses CSP and contains a reflected XSS vulnerability.
 
-To solve the lab, perform a cross-site scripting attack that bypasses the CSP and calls the `alert` function. 
+To solve the lab, perform a cross-site scripting attack that bypasses the CSP and calls the `alert` function.
 
 Please note that the intended solution to this lab is only possible in Chrome
 
