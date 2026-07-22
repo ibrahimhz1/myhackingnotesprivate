@@ -1,5 +1,5 @@
 ---
-title: 17_Lab17-Reflected XSS with some SVG markup allowed
+title: 17_Lab17-Reflected XSS in canonical link tag
 date: 2026-07-05
 tags:
   - 
