@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5b8d52617bbe239",
+        "id": "ba7bbc4752755fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "595ab3ce8779f6ea",
+            "id": "bdd5e61296776229",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PortswiggerAcademy/XSS/4_Lab4-DOM XSS in innerHTML sink using source location.search.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4_Lab4-DOM XSS in innerHTML sink using source location.search"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortswiggerAcademy/XSS/4_Lab4-DOM XSS in innerHTML sink using source location.search.md",
+                "file": "PortswiggerAcademy/CSRF/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4_Lab4-DOM XSS in innerHTML sink using source location.search"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -171,17 +167,19 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PortswiggerAcademy/XSS/22_Lab22-Exploiting cross-site scripting to steal cookies.md"
+                "file": "PortswiggerAcademy/CSRF/Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 22_Lab22-Exploiting cross-site scripting to steal cookies"
+              "title": "File properties for Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "595ab3ce8779f6ea",
+  "active": "81e5261346dac747",
   "lastOpenFiles": [
+    "PortswiggerAcademy/XSS/30_Lab-Reflected XSS protected by CSP, with CSP bypass.md",
+    "PortswiggerAcademy/CSRF/Untitled.md",
+    "PortswiggerAcademy/CSRF",
+    "PortswiggerAcademy/XSS/29_Lab29-Reflected XSS protected by very strict CSP, with dangling markup attack.md",
+    "PortswiggerAcademy/XSS/4_Lab4-DOM XSS in innerHTML sink using source location.search.md",
     "PortswiggerAcademy/XSS/2_Lab2-Stored XSS into HTML context with nothing encoded.md",
     "PortswiggerAcademy/XSS/1_Lab1-Reflected XSS into HTML context with nothing encoded.md",
     "PortswiggerAcademy/attachments/Pasted image 20260716225434.png",
-    "PortswiggerAcademy/XSS/29_Lab29-Reflected XSS protected by very strict CSP, with dangling markup attack.md",
     "PortswiggerAcademy/attachments/Pasted image 20260717023416.png",
     "PortswiggerAcademy/attachments/Pasted image 20260717023020.png",
     "PortswiggerAcademy/attachments/Pasted image 20260717021035.png",
@@ -233,9 +235,6 @@
     "GenAI/Prompt/RAG.md",
     "GenAI/Prompt/Untitled.md",
     "HiddenWistomDiscovered/HTML_and_Browser_Behaviour/Browser behaviour on closed tags.md",
-    "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.md",
-    "PortswiggerAcademy/TestLab/Reflected_DOM_XSS/eval/data.json.md",
-    "PortswiggerAcademy/XSS/13_Lab13-Stored DOM XSS.md",
     "Vulnhub_Machines/Links",
     "Vulnhub_Machines",
     "EWPTX/Preparation_Guide",
@@ -243,7 +242,6 @@
     "HiddenWistomDiscovered/attachments",
     "HiddenWistomDiscovered/HTML_and_Browser_Behaviour",
     "HiddenWistomDiscovered",
-    "PortswiggerAcademy/TestLab/Stored_DOM_XSS/index_stored_xss_replace.html",
     "Untitled.canvas"
   ]
 }
